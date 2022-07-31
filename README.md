@@ -1,4 +1,4 @@
-<h1 align="center">— Hi there, I'm <a href="https://steamcommunity.com/id/kinexprod" target="_blank">Timmi</a>
+<h1 align="center">— Hi there, I'm <a href="https://steamcommunity.com/id/-494" target="_blank">Timmi</a>
 <img src=" " height="32"/></h1>
 <h3 align="center">IT news writer from Russia 🇷🇺</h3>
 
